@@ -1,0 +1,15 @@
+.idea
+target/*
+*/target/*
+*.iml
+*/*.iml
+**/.DS_Store
+logs/*.log
+*.gz
+.vscode/*
+**/.settings/*
+*/.classpath
+*/.factorypath
+**/.project
+**/log4j2.xml
+.flattened-pom.xml
